@@ -48,10 +48,16 @@ pip install pyaudio
 pip install path/to/downloaded/file.whl
 Full Installation Command:
 To install everything at once, you can run:
+
+
 ☑️pip install googletrans==4.0.0-rc1 gtts playsound3 pyttsx3 SpeechRecognition pyaudio
 
 I am vicky kumar 
+
 from computer science student
+
 contact:- 8521440075
+
 Email:- 230101120164@centurionuniv.edu.in
+
 Thank you for visited.
