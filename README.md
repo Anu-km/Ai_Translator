@@ -51,6 +51,8 @@ To install everything at once, you can run:
 
 
 ☑️pip install googletrans==4.0.0-rc1 gtts playsound3 pyttsx3 SpeechRecognition pyaudio
+
+💯OUTPUT☑️
 ![image](https://github.com/user-attachments/assets/b620273a-02e4-4404-9af1-d023b71e9642)
 
 
