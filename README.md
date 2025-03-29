@@ -52,7 +52,7 @@ To install everything at once, you can run:
 
 ☑️pip install googletrans==4.0.0-rc1 gtts playsound3 pyttsx3 SpeechRecognition pyaudio
 
-I'm vicky 
+Created by  vicky 
 
 from computer science student
 
